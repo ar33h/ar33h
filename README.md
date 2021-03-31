@@ -16,7 +16,7 @@
 <br>
 <h2> 💻 Languages & Tools </h2>
 
- <img height="40" src="./assets/dart.png"> &nbsp; <img height="40" src="./assets/kotlin.png"> &nbsp; <img height="40" src="./assets/flutter.png"> &nbsp; &nbsp; <img height="40" src="./assets/cpp.png"> &nbsp; <img height="40" src="./assets/vs_code.png"> &nbsp; &nbsp; <img height="40" src="./assets/figma.png"> &nbsp; &nbsp; <img height="40" src="./assets/git.png">   
+ <img height="40" src="./assets/dart.png"> &nbsp; <img height="40" src="./assets/python.png"> &nbsp; <img height="40" src="./assets/flutter.png"> &nbsp; &nbsp; <img height="40" src="./assets/cpp.png"> &nbsp; <img height="40" src="./assets/vs_code.png"> &nbsp; &nbsp; <img height="40" src="./assets/figma.png"> &nbsp; &nbsp; <img height="40" src="./assets/git.png">   
 
 <br>
 <h2> 📫 Find me elsewhere </h2>
