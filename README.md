@@ -1,22 +1,17 @@
-![header_image](./readme_header.png)
 
 <h2> Hello, geeks! <img src="./wave.gif" width="30px"> </h2>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ar33h.ar33h)](https://github.com/ar33h)
 [![follow](https://img.shields.io/github/followers/ar33h)](https://github.com/ar33h?tab=followers)
 
+<br>
 <h2> I'm Arshdeep Singh! </h2>
 
--  Undergraduate <b>CS Student</b> at Symbiosis Institute of Technology, Pune. 
+-  <b>CSE Undergrad</b> at Symbiosis Institute of Technology, Pune. 
 
 -  Avid UI Designer & <b>Flutter Developer</b>.
 
--  Passionate about <b>Cybersecurity</b> & Threat Intelligence.
-
-<br>
-<h2> 💻 Languages & Tools </h2>
-
- <img height="40" src="./assets/dart.png"> &nbsp; <img height="40" src="./assets/python.png"> &nbsp; <img height="40" src="./assets/flutter.png"> &nbsp; &nbsp; <img height="40" src="./assets/cpp.png"> &nbsp; <img height="40" src="./assets/vs_code.png"> &nbsp; &nbsp; <img height="40" src="./assets/figma.png"> &nbsp; &nbsp; <img height="40" src="./assets/git.png">   
+-  <b>Cybersecurity</b> Enthusiast.
 
 <br>
 <h2> 📫 Find me elsewhere </h2>
