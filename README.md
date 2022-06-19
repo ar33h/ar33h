@@ -1,5 +1,5 @@
 
-<h2> Hello, geeks! <img src="./wave.gif" width="30px"> </h2>
+<h2> Hello, geeks! <img src="./wave.gif" height="30px"> </h2>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ar33h.ar33h)](https://github.com/ar33h)
 [![follow](https://img.shields.io/github/followers/ar33h)](https://github.com/ar33h?tab=followers)
