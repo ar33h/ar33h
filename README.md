@@ -4,6 +4,8 @@
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ar33h.ar33h)](https://github.com/ar33h)
 [![follow](https://img.shields.io/github/followers/ar33h)](https://github.com/ar33h?tab=followers)
 
+<img src="./readme_header.png">
+
 <br>
 <h2> I'm Arshdeep Singh! </h2>
 
