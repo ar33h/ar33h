@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/arshdeepsengh">![Instagram](https://img.shields.io/badge/Instagram-D14846?style=for-the-badge&logo=instagram&logoColor=white&color=purple)</a> &nbsp;
 <a href="mailto:arshdeep.singh4@pace.edu">![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-Graduate Student at Pace University NYC, pursuing a Masters in Computer & Information System Security, passionate about Vulnerablity Management 🔐, Pythonic programming 🐍, and Graphic Designing 🖌️. My superpower - a relentless drive to keep solutions simple, both in design and code.
+Graduate Student at Pace University NYC, pursuing a Masters in Computer & Information System Security, passionate about Privacy Engineering 🔐, Pythonic programming 🐍, and Graphic Designing 🖌️. My superpower - a relentless drive to keep solutions simple, both in design and code.
 <br>
 <br>
 [![Profile last updated](https://img.shields.io/github/last-commit/ar33h/ar33h?label=Last%20Updated&style=flat)](https://github.com/ar33h/ar33h/commits)
